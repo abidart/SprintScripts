@@ -1,0 +1,9 @@
+[MASTER]
+ignore=tests
+max-line-length=79
+disable=
+    C0114, # missing-module-docstring
+    C0330, # bad-continuation
+    R0902, # too-many-instance-attributes
+    R0903, # too-few-public-methods
+    W1202, # logging-format-interpolation
